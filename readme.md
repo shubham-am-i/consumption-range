@@ -31,3 +31,7 @@ Calculate Consumption:
 2. Query the InfluxDB database to retrieve the meter reading values just before the startTime and endTime.
 3. Calculate the consumption by subtracting the meter reading value just before the startTime from the value just before the endTime.
 4. Display the calculated consumption.
+
+## GitHub repo
+
+- [consumption range](https://github.com/shubham-am-i/consumption-range)
