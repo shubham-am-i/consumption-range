@@ -35,3 +35,7 @@ Calculate Consumption:
 ## GitHub repo
 
 - [consumption range](https://github.com/shubham-am-i/consumption-range)
+
+## Flowchart : Calculating Consumption
+
+![](images/flowchart.png)
