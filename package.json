@@ -7,7 +7,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "publish": "nodemon publisher.js",
-    "subscribe": "nodemon subscriber.js"
+    "subscribe": "nodemon subscriber.js",
+    "consumption": "nodemon consumption.js"
   },
   "keywords": [],
   "author": "",
